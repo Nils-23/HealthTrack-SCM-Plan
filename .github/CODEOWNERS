@@ -1,0 +1,8 @@
+# Tech Lead owns SCM plan
+README.md       @Nils-23
+
+# Database ownership
+*.sql           @Nils-23
+
+# Frontend ownership
+*.js            @Nils-23
